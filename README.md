@@ -1,6 +1,10 @@
 # quake_app
 
 A new Flutter project.
+I have used earthquake.usgs.gov JSON API to show info of all the earthquakes that are more than 4.5 on the richter scale
+
+![quake app](https://user-images.githubusercontent.com/42516515/59157115-bc5cd600-8ac2-11e9-9c0c-bd899c3d5fbb.PNG)
+
 
 ## Getting Started
 
